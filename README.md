@@ -7,13 +7,15 @@
 ### Construido con
 
 - HTML5 semántico
-- CSS - BEM
+- CSS3
+- Variables de CSS
+- Medidas relativas (rem)
+- BEM
 - Flexbox
 
 [DEMO](https://nft-preview-card-component-main-gamma.vercel.app/)
 
 ![Diseño sin título](https://user-images.githubusercontent.com/58489695/172680245-c086fd3c-6a1b-4637-af9b-32fdcaa300d9.png)
-
 
 ---
 
