@@ -26,23 +26,23 @@ body {
 }
 
 .card {
-  width: 327px;
-  height: 542px;
-  border-radius: 10px;
+  width: 32.7rem;
+  height: 54.2rem;
+  border-radius: 1rem;
   padding: 2.9rem;
   background-color: hsl(216, 50%, 16%);
   position: relative;
 }
 
 .card img {
-  width: 269px;
-  height: 269px;
-  border-radius: 10px;
+  width: 26.9rem;
+  height: 26.9rem;
+  border-radius: 1rem;
 }
 
 .card__img--overlay img {
-  height: 25px;
-  width: 25px;
+  height: 2.5rem;
+  width: 2.5rem;
 }
 
 .card__img--overlay:hover {
@@ -70,7 +70,7 @@ body {
 .info__price {
   display: flex;
   justify-content: space-between;
-  border-bottom: 1px solid hsl(215, 32%, 27%);
+  border-bottom: 0.1rem solid hsl(215, 32%, 27%);
   padding-bottom: 1.2rem;
   margin-bottom: 1.6rem;
 }
@@ -81,8 +81,8 @@ body {
 }
 
 .info__price--left .icon {
-  height: 21px;
-  width: 13px;
+  height: 2.1rem;
+  width: 1.3rem;
   margin-right: 0.9rem;
 }
 
@@ -97,8 +97,8 @@ body {
 }
 
 .info__price--right .icon {
-  height: 16px;
-  width: 16px;
+  height: 1.6rem;
+  width: 1.6rem;
   margin-right: 0.9rem;
 }
 
@@ -113,10 +113,10 @@ body {
 }
 
 .creator__info img {
-  height: 33px;
-  width: 33px;
+  height: 3.3rem;
+  width: 3.3rem;
   border-radius: 50%;
-  border: 1px solid var(--white);
+  border: 0.1rem solid var(--white);
   margin-right: 1rem;
 }
 
@@ -135,9 +135,9 @@ body {
 }
 
 .card__img--overlay {
-  width: 269px;
-  height: 269px;
-  border-radius: 10px;
+  width: 26.9rem;
+  height: 26.9rem;
+  border-radius: 1rem;
   display: flex;
   justify-content: center;
   align-items: center;
